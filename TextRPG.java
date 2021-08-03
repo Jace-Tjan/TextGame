@@ -1,4 +1,4 @@
-package textrpg;
+//package textrpg;
 /*Jace Tjan
  * Text RPG where user is given a story and options to interact with it
  * They are able to beat the game or die in the process.
