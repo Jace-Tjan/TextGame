@@ -15,4 +15,4 @@ Project is created with:
 ## Setup
 To run this project, install it:
 Download the .java file and put it somewhere that can be run with Java Swing libraries.
-go to changestorytext() and change the file to the location you deposit the .xml to.
+Go to changestorytext() and change the file to the location you deposit the .xml to.
