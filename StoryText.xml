@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<novel>
+	<chapter>
+		<text>You have entered an unknown mine. A monster has appeared in your way what will you do?</text>
+		<option1>attack</option1>
+		<op1Next>attack</op1Next>
+		<option2>defend</option2>
+		<op2Next>defend</op2Next>
+		<option3>heal</option3>
+		<op3Next>heal</op3Next>
+		<option4>run</option4>
+		<op4Next>run</op4Next>
+	</chapter>
+	
+	<attack>
+		<text>You have attacked the monster in the corridor.</text>
+		<option1>attack</option1>
+		<op1Next>attack</op1Next>
+		<option2>defend</option2>
+		<op2Next>defend</op2Next>
+		<option3>heal</option3>
+		<op3Next>heal</op3Next>
+		<option4>run</option4>
+		<op4Next>run</op4Next>
+	</attack>
+	
+	<defend>
+		<text>You have defended against a monster but sustained some damage.</text>
+		<option1>attack</option1>
+		<op1Next>attack</op1Next>
+		<option2>defend</option2>
+		<op2Next>defend</op2Next>
+		<option3>heal</option3>
+		<op3Next>heal</op3Next>
+		<option4>run</option4>
+		<op4Next>run</op4Next>
+	</defend>
+	
+	<heal>
+		<text>You have healed while in battle against the monster.</text>
+		<option1>attack</option1>
+		<op1Next>attack</op1Next>
+		<option2>defend</option2>
+		<op2Next>defend</op2Next>
+		<option3>heal</option3>
+		<op3Next>heal</op3Next>
+		<option4>run</option4>
+		<op4Next>run</op4Next>
+	</heal>
+	
+	<run>
+		<text>The monster was too strong so you ran away.
+However you soon came across another monster, what will you do?</text>
+		<option1>attack</option1>
+		<op1Next>attack</op1Next>
+		<option2>defend</option2>
+		<op2Next>defend</op2Next>
+		<option3>heal</option3>
+		<op3Next>heal</op3Next>
+		<option4>run</option4>
+		<op4Next>run</op4Next>
+	</run>
+	
+	<deadend>
+		<text>You have perished.</text>
+		<option1></option1>
+		<op1Next></op1Next>
+		<option2></option2>
+		<op2Next></op2Next>
+		<option3></option3>
+		<op3Next></op3Next>
+		<option4></option4>
+		<op4Next></op4Next>
+	</deadend>
+	
+	<end>
+		<text>You have defeated all the monsters, congratulations!</text>
+		<option1></option1>
+		<op1Next></op1Next>
+		<option2></option2>
+		<op2Next></op2Next>
+		<option3></option3>
+		<op3Next></op3Next>
+		<option4></option4>
+		<op4Next></op4Next>
+	</end>
+	
+</novel>
